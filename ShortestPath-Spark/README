@@ -1,0 +1,9 @@
+Read me for Shortest Path in Spark
+
+
+This program solves the problem of k sources shortest path
+
+
+HOW TO Run?
+
+Clone the repo, using the makefile, run on aws by using the command "make aws"
